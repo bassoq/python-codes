@@ -1,2 +1,2 @@
 # python-codes
-Here there are some codes in python regarding to data science and machine leaening, also have soma random tests with others projects
+Here there are some codes in python regarding to Data Science, Machine Learning and other projects, also have soma random tests with others projects
